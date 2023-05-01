@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.mahmudur.dev/](https://www.mahmudur.dev/)
+- 👨‍💻 All of my projects are available at [https://www.mahmudur.dev/](https://www.intelligentprogrammer.com/)
 
-- 📝 I regularly write articles on [https://www.mahmudur.dev/](https://www.mahmudur.dev/)
+- 📝 I regularly write articles on [https://www.mahmudur.dev/](https://www.intelligentprogrammer.com/)
 
 - 💬 Ask me about **ASP.NET Core, MERN and Flutter**
 
