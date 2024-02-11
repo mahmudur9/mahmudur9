@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ASP.NET Core and React**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m continuously learning new things
 
 - 👨‍💻 All of my projects are available at [https://www.intelligentprogrammer.com/](https://www.intelligentprogrammer.com/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mahmudur149@gmail.com**
 
-- ⚡ Fun fact **I think I am funy**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
