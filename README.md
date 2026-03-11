@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm MAHMUDUR RAHMAN</h1>
-<h3 align="center">A passionate programmer and full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer and software engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudur9&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudur9" /> </p>
 
-- 🔭 I’m currently working on **.NET and React**
+- 🔭 I’m currently working on **.NET, Go, and React**
 
 - 🌱 I’m continuously learning new things
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.intelligentprogrammer.com/](https://www.intelligentprogrammer.com/)
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **.NET and Go**
 
 - 📫 How to reach me **mahmudur.office@gmail.com**
 
