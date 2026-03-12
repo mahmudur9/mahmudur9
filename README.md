@@ -7,11 +7,7 @@
 - 🔭 I’m currently working on **.NET, Go, and React**
 
 - 🌱 I’m continuously learning new things
-
-- 👨‍💻 All of my projects are available at [https://www.intelligentprogrammer.com/](https://www.intelligentprogrammer.com/)
-
-- 📝 I regularly write articles on [https://www.intelligentprogrammer.com/](https://www.intelligentprogrammer.com/)
-
+- 
 - 💬 Ask me about **.NET and Go**
 
 - 📫 How to reach me **mahmudur.office@gmail.com**
